@@ -1,0 +1,25 @@
+{
+  "name": "website-template",
+  "version": "1.0.0",
+  "description": "Sample Website Using Only HTML & CSS & JQUERY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rooneyrulz/website-template.git"
+  },
+  "keywords": [
+    "mr.rooney"
+  ],
+  "author": "rooney@run.com",
+  "license": "MIT",
+  "bugs": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://rooneyrulz.github.io/website-template",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
